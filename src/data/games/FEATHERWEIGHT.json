@@ -1,0 +1,28 @@
+{
+    "name": "FEATHERWEIGHT",
+    "description": "Open your hand to lift the feather! The longer and farther apart you stretch, the higher the feather goes",
+    "main_image": "data/games/thumbnail_featherweight.png",
+    "thumbnail": "data/games/thumbnail_featherweight.png",
+    "FEATHERWEIGHT": [
+        {
+            "name": "Lock On",
+            "description": "Your Hand Has Been Registered",
+            "image": "data/cheevos/cheevo23.png"
+        },
+	{
+            "name": "Level One",
+            "description": "Completed Level One in FeatherWeight",
+            "image": "data/cheevos/cheevo11.png"
+        },
+	{
+            "name": "Hummingbird",
+            "description": "Hovered feather for 10 seconds",
+            "image": "data/cheevos/cheevo23.png"
+        },
+        {
+            "name": "Second Bounce",
+            "description": "Bounced for the second time in Featherweight",
+            "image": "data/cheevos/cheevo7.png"
+        }
+    ]
+}
